@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors = ["holo11"]
   spec.email = ["holo1122@gmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.summary = "A simple payment gem"
+  spec.description = "A simple payment gem"
+  spec.homepage = "https://github.com/holo11/my_payment_gem2"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
